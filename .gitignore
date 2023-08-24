@@ -1,0 +1,9 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/AzureNamingTool/v17/.wsuo
+/.vs/AzureNamingTool/FileContentIndex/0ef4b027-0672-4f9a-aabc-ba8e527d7342.vsidx
